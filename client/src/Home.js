@@ -36,7 +36,7 @@ const Home = (props) => {
       </nav>
       <div className="m-5">
         <div className="jumbotron">
-          <p className="lead">Welcome {user && user.name}</p>
+          <p className="lead">Medi ga punya dual pistol &#128557;</p>
         </div>
       </div>
     </div>
